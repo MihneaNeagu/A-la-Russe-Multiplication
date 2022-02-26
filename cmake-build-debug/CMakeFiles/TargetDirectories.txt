@@ -1,0 +1,3 @@
+C:/PROIECTE OOP 2/Inmultire(a la russe)/cmake-build-debug/CMakeFiles/Inmultire_a_la_russe_.dir
+C:/PROIECTE OOP 2/Inmultire(a la russe)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PROIECTE OOP 2/Inmultire(a la russe)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
